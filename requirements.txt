@@ -2,4 +2,4 @@ ipykernel
 numpy
 pandas
 matplotlib
-seaborn
+seaborn 
