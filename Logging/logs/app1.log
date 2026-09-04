@@ -1,0 +1,10 @@
+2026-09-04 23:41:34 - ArithmeticApp - Adding 10+11 = 21
+2026-09-04 23:41:46 - ArithmeticApp - Adding 10+11 = 21
+2026-09-04 23:41:46 - ArithmeticApp - Subtracting 20-12 = 8
+2026-09-04 23:41:46 - ArithmeticApp - Multiplying 12*2 = 24
+2026-09-04 23:41:46 - ArithmeticApp - Dividing 20 / 5 = 4.0
+2026-09-04 23:43:44 - ArithmeticApp - Adding 10+11 = 21
+2026-09-04 23:43:44 - ArithmeticApp - Subtracting 20-12 = 8
+2026-09-04 23:43:44 - ArithmeticApp - Multiplying 12*2 = 24
+2026-09-04 23:43:44 - ArithmeticApp - Dividing 20 / 5 = 4.0
+2026-09-04 23:43:44 - ArithmeticApp - Division by zero error
